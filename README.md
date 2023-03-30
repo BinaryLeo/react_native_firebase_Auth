@@ -51,3 +51,6 @@ App Flow
 SignIn screen ---> Home screen
 
 SignUp screen ---> SignInn screen ---> Home
+
+https://user-images.githubusercontent.com/72607039/228700015-04874bed-d226-433c-956b-05b0fc6c2536.mp4
+
