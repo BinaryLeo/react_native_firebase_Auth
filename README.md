@@ -33,3 +33,21 @@ const firebaseConfig = {
   databaseURL: Constants.manifest.extra.databaseURL
 };
 ```
+Add the credential values to the .env file
+By default for security  the .env file is added to gitignore
+
+```
+API_KEY=
+AUTH_DOMAIN=
+PROJECT_ID=
+STORAGE_BUCKET=
+MESSAGING_SENDER_ID=
+APP_ID=
+
+```
+
+App Flow
+
+SignIn screen ---> Home screen
+
+SignUp screen ---> SignInn screen ---> Home
